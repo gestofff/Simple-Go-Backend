@@ -22,20 +22,20 @@ Features
 Project Structure
 -----------------
 
-~
-├── cmd/
-│   └── main.go                  Application entry point
-├── internal/
-│   ├── calculationService/      Business logic layer
-│   │   ├── orm.go
-│   │   ├── repository.go
-│   │   └── service.go
-│   ├── db/
-│   │   └── db.go                Database initialization
-│   └── handlers/
-│       └── calculationHandlers.go
-├── go.mod
-└── README.txt
+~  
+├── cmd/  
+│   └── main.go                  Application entry point  
+├── internal/  
+│   ├── calculationService/      Business logic layer  
+│   │   ├── orm.go  
+│   │   ├── repository.go  
+│   │   └── service.go  
+│   ├── db/  
+│   │   └── db.go                Database initialization  
+│   └── handlers/  
+│       └── calculationHandlers.go  
+├── go.mod  
+└── README.txt  
 
 
 API Endpoints
