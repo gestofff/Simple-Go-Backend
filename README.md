@@ -35,6 +35,7 @@ Project Structure
 │   └── handlers/  
 │       └── calculationHandlers.go  
 ├── go.mod  
+├── go.sum 
 └── README.txt  
 
 
